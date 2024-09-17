@@ -14,13 +14,13 @@ Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown 
 >> b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is constant as Mindanao and gender Female
 > 2. Create a visualization that shows how the different features contributes to average grade. Does chosen track in college, gender, or hometown contributes to a higher average score?
 
-#### ** III. Obstacles **
+#### **III. Obstacles**
 - I have a lot of obstacles with this PA#4. I personally think that it is hard due to the fact that I wasn't able to understand everything.
 - I have difficulties on finding the file path for reaading the excel file.
 - I have to search youtube and blockmate for additional help when the syntax is not running because I only have limited time to do it.
 
 
-#### ** IV. Learnings I obtained while doing the activity **
+#### **IV. Learnings I obtained while doing the activity**
 - Some of the syntax become clear to me such as: .query - It helped me filter the data frame.
 - I can easily understandd the data when it is visual and you can actually do it in python.
 - (I will addd more Miss)
